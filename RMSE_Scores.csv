@@ -1,0 +1,14 @@
+,Model_Try,RMSE
+10,random_forest_feature_reduce_by_median,0.061505938331108324
+9,random_forest_feature_reduce_by_mean,0.06192629376324782
+12,random_forest_advanced_feature_reduce_by_median,0.0625078831221773
+8,random_forest,0.06255313933147312
+4,allfeaturecols_linreg,0.0626764621937734
+1,boxscore_only_linreg,0.06403079978052009
+3,advancedstats_linreg,0.0641716038719923
+2,boxscore_nominplayed_linreg,0.06441473457657067
+11,random_forest_advanced_feature_reduce_by_mean,0.06681064140103002
+6,decisiontree_advanced_stats,0.06829940734933763
+5,decisiontree_box_score_stats,0.06848357929151556
+7,decisiontree_all_stats,0.06859902544121241
+0,nullrmse,0.08423383287791675
